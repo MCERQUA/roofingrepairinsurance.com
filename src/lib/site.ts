@@ -158,8 +158,3 @@ export const STATS = [
   { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
 
-export const TESTIMONIALS = [
-  { quote: "Storm season hit and we tripled our crew size overnight. Our old carrier cancelled mid-season. Roofing Repair Insurance placed a program that accommodated our surge payroll and kept us covered through the busiest weeks of the year. That's the kind of agency you want in your corner.", name: "Derek W.", role: "Storm Damage Contractor", location: "Texas" },
-  { quote: "A completed-operations claim came in eight months after a repair job — the homeowner said the flashing wasn't properly sealed. The coverage was in place because this agency structured it right the first time. Other agents just give you a cheap GL; these guys build the real program.", name: "Alicia T.", role: "Roofing Repair Owner", location: "Florida" },
-  { quote: "We had a tools trailer stolen at a storm-damage site. The inland marine paid within days — no fight, no argument about whether it was covered off-premises. I've had that fight with other agents. Not here.", name: "Marcus J.", role: "Repair Crew Supervisor", location: "Georgia" },
-] as const;

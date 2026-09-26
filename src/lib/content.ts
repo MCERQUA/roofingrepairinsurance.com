@@ -51,11 +51,6 @@ export const COPY = {
   process: {
     lead: "No two-week back-and-forth. A real conversation, real markets, and a program you can understand — built around your repair operation, storm-season capacity, and crew structure.",
   },
-  testimonials: {
-    eyebrow: "From roofing repair contractors",
-    h2Lead: "Repair roofers who found",
-    h2Highlight: "coverage that actually pays",
-  },
   finalCta: {
     h2Lead: "Protect Your Roofing Repair Business",
     h2Highlight: "with coverage built for the repair trade.",
